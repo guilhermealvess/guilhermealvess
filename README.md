@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Hello, my name is Guilherme Alves. I'm Software Engineer Backend at Morpheus Tecnologia, Uberlândia - MG, Brazil. 👨🏽‍💼️
+- Hello, my name is Guilherme Alves. I'm Software Engineer Backend at Olist, Curitiba-PR, Brazil. 👨🏽‍💼️
 
-* Hard Skills: Python, JavaScript/TypeScript (Node JS), Java, C/C++, Golang, Elixir, HTML/CSS, Angular JS/2+, React JS, Dart (Flutter), IoT, Machine Learning, SQL, NoSQL (Mongo DB, Redis, ElasticSearch), RabbitMQ, Linux, Docker, Git. 👨🏽‍💻️
+* Hard Skills: Python, JavaScript/TypeScript (Node JS), Java, C/C++, Golang, Elixir, HTML/CSS, Angular JS/2+, React JS, Dart (Flutter), IoT, Machine Learning, SQL, NoSQL (Mongo DB, Redis, ElasticSearch), AWS, RabbitMQ, Linux, Docker, Git. 👨🏽‍💻️
 
 - At the moment I'm learning and getting to know Kotlin and its entire ecosystem for server side, such as Quarkus and Micronaut. 👾️
 
