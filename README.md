@@ -28,27 +28,6 @@ Here are some ideas to get you started:
 
 [![guilhermealvess](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermealvess&hide=html&layout=compact&theme=dark)](https://github.com/guilhermealvess/)
 
-## Project Leonidas ⚔️🛡️
-```
-
-I'm working on a personal project, I'm calling it Project Leonidas, and yes, it's the Leonidas of the 300 kkk 😁️. 
-
-This project consists of a set of applications that together form a fictitious marketplace and payment methods 📦️ + 💳️. 
-
-The objective of this project is to be a place to practice new languages, architectures and tools, that is, a kind of play ground where 
-I can practice skills that I don't normally practice in everyday projects in the work environment, a laboratory 🔬️🔭️.
-
-Not giving up clean and responsible code, with tests, best practices and documentation 👨🏽‍💻️✅️.
-
-This project is totally open to ideas, suggestions and contributions, feel free. 💡️😉️
-```
-
-- [API gRPC Authorization JWT](https://github.com/guilhermealvess/auth-api-jwt)
-- [Backend service main](https://github.com/guilhermealvess/leonidas-api-service)
-- [Front page marketplace](https://github.com/guilhermealvess/leonidas-page)
-- [Web crawller for insert products in plataform](https://github.com/guilhermealvess/leonidas-spider)
-
-
 <p align="left">
 
   <a href="https://www.linkedin.com/in/guilherme-alves-319796169/" alt="Linkedin">
