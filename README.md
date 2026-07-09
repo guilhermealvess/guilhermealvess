@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - At the moment I'm learning and getting to know Kotlin and its entire ecosystem for server side, such as Quarkus and Micronaut. 👾️
 
-- Contact me via email at guilherme.alves3340@gmail.com 📬️
+- Contact me via email at guilhermeasilva.dev@gmail.com 📬️
 
 ## My Languages
 [![guilhermealvess](https://github-readme-stats.vercel.app/api?username=guilhermealvess&theme=dark)](https://github.com/guilhermealvess/)
